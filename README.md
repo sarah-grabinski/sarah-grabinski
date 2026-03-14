@@ -1,10 +1,10 @@
 <div class="container-fluid">
 <table class="table">
   <tr class="d-flex">
-    <td class="col-xs-6"><h1>Sarah Grabinski, M.S.</h1>
+    <td class="col-6"><h1>Sarah Grabinski, M.S.</h1>
     <h2>Freelance biostatistical consultant and data analyst</h2>
     <!-- <h2>Red Queen Analytics LLC</h2> --></td>
-    <td class="col-xs-6"><img src="headshot.jpg" alt="A headshot of Sarah Grabinski, who is smiling in front of a dark tile background. She has slightly graying brown hair, brown eyes, and a light complexion. She is wearing a robin's egg blue blazer over a white collared shirt with a silver necklace and diamond earrings."></td>
+    <td class="col-6"><img src="headshot.jpg" alt="A headshot of Sarah Grabinski, who is smiling in front of a dark tile background. She has slightly graying brown hair, brown eyes, and a light complexion. She is wearing a robin's egg blue blazer over a white collared shirt with a silver necklace and diamond earrings."></td>
   </tr>
 </table>
 </div>
