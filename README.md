@@ -3,13 +3,13 @@
 <!-- ## Red Queen Analytics LLC -->
 ![alt="A headshot of Sarah Grabinski, who is smiling in front of a dark tile background. She has slightly graying brown hair, brown eyes, and a light complexion. She is wearing a robin's egg blue blazer over a white collared shirt with a silver necklace and diamond earrings."](https://github.com/sarah-grabinski/sarah-grabinski/headshot.jpg>)
 
-<div align="center">
+<div>
   <div align="left">
-    # Sarah Grabinski, M.S.
-    ## Freelance biostatistical consultant and data analyst
-    <!-- ## Red Queen Analytics LLC -->
+    <h1>Sarah Grabinski, M.S.</h1>
+    <h2>Freelance biostatistical consultant and data analyst</h2>
+    <!-- <h2>Red Queen Analytics LLC</h2> -->
   </div>
-  <div>![alt="A headshot of Sarah Grabinski, who is smiling in front of a dark tile background. She has slightly graying brown hair, brown eyes, and a light complexion. She is wearing a robin's egg blue blazer over a white collared shirt with a silver necklace and diamond earrings."](https://github.com/sarah-grabinski/sarah-grabinski/headshot.jpg>)</div>
+  <div align="right">![alt="A headshot of Sarah Grabinski, who is smiling in front of a dark tile background. She has slightly graying brown hair, brown eyes, and a light complexion. She is wearing a robin's egg blue blazer over a white collared shirt with a silver necklace and diamond earrings."](https://github.com/sarah-grabinski/sarah-grabinski/headshot.jpg>)</div>
 </div>
 
 ### Introduction
