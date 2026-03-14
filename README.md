@@ -1,16 +1,3 @@
-<div class="container-fluid">
-<table class="table">
-  <thead>
-  <tr class="d-flex">
-    <th class="col-8"><h1>Sarah Grabinski, M.S.</h1>
-    <h2>Freelance biostatistical consultant and data analyst</h2>
-    <!-- <h2>Red Queen Analytics LLC</h2> --></td>
-    <th class="col-4"><img src="headshot.jpg" alt="A headshot of Sarah Grabinski, who is smiling in front of a dark tile background. She has slightly graying brown hair, brown eyes, and a light complexion. She is wearing a robin's egg blue blazer over a white collared shirt with a silver necklace and diamond earrings."></td>
-  </tr>
-  </thead>
-</table>
-</div>
-
 ### Introduction
 
 I am a freelance biostatistical consultant with both field work and wet lab experience. I have been affiliated with research projects at Oberlin College, University of California Riverside, Lake Forest College, Case Western Reserve University, and the Cleveland Clinic ranging in focus from evolutionary ecology to RNA biology. I have consulted for researchers at the Cleveland Veteran's Affairs Hospital and Functional Electronic Stimulation Center. I have taught Elementary Statistics with an introduction to R coding at John Carroll University and helped developed materials for a course in Bayesian Data Analysis at Case Western Reserve University. Additionally, I have experience with business analytics, including forecasting, point-of-sale databases, and labor management in the hospitality industry. Importantly, as a science communicator, I have a passion for creating interesting, informative, accessible data visualizations that are also aesthetically pleasing. 
